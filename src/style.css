@@ -1,0 +1,30 @@
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background: linear-gradient(#121212, #212b46);
+    border: solid 1px white;
+}
+
+.title{
+    font-size: 85px;
+    
+}
+
+@keyframes spinTitle{
+    from{
+        transform: rotateX(90deg)
+    }
+
+    to{
+        transform: rotatex(0deg)
+    }
+}
+
+.main{
+    margin-top: 30px;
+    line-height: 30px;
+}
