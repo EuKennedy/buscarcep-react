@@ -18,7 +18,6 @@ function App() {
           <span>Rua pindamonhangaba</span>
           <span>Complemente: Casa</span>
         </main>
-        
     </div>
   );
 }
