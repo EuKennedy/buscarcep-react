@@ -132,3 +132,12 @@
         font-size: 31px;
     }
 }
+
+.hide{
+    display: none;
+}
+
+#errorTratament{
+    font-size: 25px;
+    padding: 0px;
+}
